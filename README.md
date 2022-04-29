@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Hardwired - Robotics Research
-- 💬 Ask me about machining/additive manufacturing, embedded electronics & robotics
+- 💬 Ask me about machining/additive manufacturing, embedded systems & robotics
 - 📫 You can reach me via [LinkedIn](https://www.linkedin.com/in/hansjohrend/)
 
 <!--
