@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 Currently working on Hardwired - Robotics Research, a start-up that focuses on the development of farming robots and industrial equipment.
+- 🔭 Currently working on Hardwired - Robotics Research, a start-up that focuses on the development of mobile robots and additive manufacturing.
 - 📫 You can reach me and see more of my work on [LinkedIn](https://www.linkedin.com/in/hansjohrend/)
 
 **Technical University of Cluj-Napoca** <br>
