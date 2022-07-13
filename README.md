@@ -14,5 +14,3 @@ Ask me about:
 - Electronics/PCB Design
 - Embedded Software Development
 - Robotics
-
-*"When something is important enough, you do it even if the odds are not in your favour."*
