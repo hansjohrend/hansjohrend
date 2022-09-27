@@ -10,6 +10,6 @@ Ask me about:
 
 - Electronics/PCB Design
 - CAD/CAM
-- Additive Manufacturing/Machining
 - Embedded Software Development
+- Additive/Subtractive Manufacturing
 - Robotics
