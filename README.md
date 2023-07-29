@@ -8,8 +8,8 @@
 
 Ask me about:
 
-- Electronics/PCB Design
+
+- Additive Manufacturing
+- Electronics
 - CAD/CAM
 - Embedded Software Development
-- Additive/Subtractive Manufacturing
-- Robotics
