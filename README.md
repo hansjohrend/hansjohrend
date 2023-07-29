@@ -11,5 +11,4 @@ Ask me about:
 
 - Additive Manufacturing
 - Electronics
-- CAD/CAM
 - Embedded Software Development
