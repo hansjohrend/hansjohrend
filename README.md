@@ -4,7 +4,7 @@
 
 **Technical University of Cluj-Napoca** <br>
 **Robotics & Industrial Engineering** <br>
-**B.Eng. - Year 3** <br>
+**B.Eng. - Year 4** <br>
 
 Ask me about:
 
