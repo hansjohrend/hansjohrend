@@ -8,5 +8,6 @@
 Ask me about:
 
 - Additive Manufacturing
+- CAD/CAM
 - Electronics
 - Embedded Software Development
