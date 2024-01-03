@@ -7,6 +7,6 @@
 
 Ask me about:
 
-- Additive Manufacturing
-- CAD/CAM/CAE
-- Embedded Systems & Electronics
+- Manufacturing
+- Robotics
+- Materials Engineering
