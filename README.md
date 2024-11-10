@@ -2,11 +2,12 @@
 
 - 📫 You can reach me and see more of my work on [LinkedIn](https://www.linkedin.com/in/hansjohrend/)
 
-**Technical University of Cluj-Napoca** <br>
-**Senior Robotics & Mechatronics Student** <br>
+**Mechatronics Graduate @TU of Cluj-Napoca** 🎓 <br>
+**Freshman Physics Student @UBB Cluj-Napoca** ⚛️ <br>
 
 Ask me about:
 
 - Manufacturing
+- Automation
 - Robotics
-- Materials Engineering
+
