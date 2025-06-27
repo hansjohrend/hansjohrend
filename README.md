@@ -4,5 +4,5 @@
 
 I design and build electromechanical prototypes. 
 
-**Mechatronics @TU of Cluj-Napoca**<br>
-**Physics @BBU Cluj-Napoca**<br>
+**BSc Mechatronics @TU of Cluj-Napoca**<br>
+**BSc Physics @BBU Cluj-Napoca**<br>
